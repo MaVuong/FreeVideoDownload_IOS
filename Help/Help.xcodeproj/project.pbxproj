@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DD15C2CA1881B72B00F46AC4 /* huongdan.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DD15C2C91881B72B00F46AC4 /* huongdan.jpg */; };
 		DD2F4663187C4654002DB8A3 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DD2F4662187C4654002DB8A3 /* Foundation.framework */; };
 		DD2F4665187C4654002DB8A3 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DD2F4664187C4654002DB8A3 /* CoreGraphics.framework */; };
 		DD2F4667187C4654002DB8A3 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DD2F4666187C4654002DB8A3 /* UIKit.framework */; };
@@ -37,6 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		DD15C2C91881B72B00F46AC4 /* huongdan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = huongdan.jpg; sourceTree = "<group>"; };
 		DD2F465F187C4654002DB8A3 /* Help.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Help.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DD2F4662187C4654002DB8A3 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		DD2F4664187C4654002DB8A3 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -124,6 +126,7 @@
 				DD2F4694187C6813002DB8A3 /* help4_shareAidrop.html */,
 				DD2F4699187C697E002DB8A3 /* help3_copy.html */,
 				DD2F4695187C6813002DB8A3 /* help5_more.html */,
+				DD15C2C91881B72B00F46AC4 /* huongdan.jpg */,
 				DD2F4674187C4654002DB8A3 /* Images.xcassets */,
 				DD2F4669187C4654002DB8A3 /* Supporting Files */,
 			);
@@ -241,6 +244,7 @@
 				DD2F469A187C697E002DB8A3 /* help3_copy.html in Resources */,
 				DD2F4696187C6813002DB8A3 /* help2_music.html in Resources */,
 				DD2F4675187C4654002DB8A3 /* Images.xcassets in Resources */,
+				DD15C2CA1881B72B00F46AC4 /* huongdan.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
