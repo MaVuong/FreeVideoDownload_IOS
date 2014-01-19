@@ -26,6 +26,7 @@
 		DD2F4697187C6813002DB8A3 /* help4_shareAidrop.html in Resources */ = {isa = PBXBuildFile; fileRef = DD2F4694187C6813002DB8A3 /* help4_shareAidrop.html */; };
 		DD2F4698187C6813002DB8A3 /* help5_more.html in Resources */ = {isa = PBXBuildFile; fileRef = DD2F4695187C6813002DB8A3 /* help5_more.html */; };
 		DD2F469A187C697E002DB8A3 /* help3_copy.html in Resources */ = {isa = PBXBuildFile; fileRef = DD2F4699187C697E002DB8A3 /* help3_copy.html */; };
+		DDFE2D95188C15F100B50E9A /* hel1_video_appMusic.html in Resources */ = {isa = PBXBuildFile; fileRef = DDFE2D94188C15F100B50E9A /* hel1_video_appMusic.html */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -62,6 +63,7 @@
 		DD2F4694187C6813002DB8A3 /* help4_shareAidrop.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = help4_shareAidrop.html; sourceTree = "<group>"; };
 		DD2F4695187C6813002DB8A3 /* help5_more.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = help5_more.html; sourceTree = "<group>"; };
 		DD2F4699187C697E002DB8A3 /* help3_copy.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = help3_copy.html; sourceTree = "<group>"; };
+		DDFE2D94188C15F100B50E9A /* hel1_video_appMusic.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = hel1_video_appMusic.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -124,6 +126,7 @@
 				DD2F4671187C4654002DB8A3 /* AppDelegate.h */,
 				DD2F4672187C4654002DB8A3 /* AppDelegate.m */,
 				DD2F4691187C4679002DB8A3 /* hel1_video.html */,
+				DDFE2D94188C15F100B50E9A /* hel1_video_appMusic.html */,
 				DD2F4693187C6813002DB8A3 /* help2_music.html */,
 				DD2F4694187C6813002DB8A3 /* help4_shareAidrop.html */,
 				DD2F4699187C697E002DB8A3 /* help3_copy.html */,
@@ -240,6 +243,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DDFE2D95188C15F100B50E9A /* hel1_video_appMusic.html in Resources */,
 				DD2F4697187C6813002DB8A3 /* help4_shareAidrop.html in Resources */,
 				DD2F466D187C4654002DB8A3 /* InfoPlist.strings in Resources */,
 				DD2F4698187C6813002DB8A3 /* help5_more.html in Resources */,
