@@ -27,6 +27,7 @@
 		DD2F4698187C6813002DB8A3 /* help5_more.html in Resources */ = {isa = PBXBuildFile; fileRef = DD2F4695187C6813002DB8A3 /* help5_more.html */; };
 		DD2F469A187C697E002DB8A3 /* help3_copy.html in Resources */ = {isa = PBXBuildFile; fileRef = DD2F4699187C697E002DB8A3 /* help3_copy.html */; };
 		DDFE2D95188C15F100B50E9A /* hel1_video_appMusic.html in Resources */ = {isa = PBXBuildFile; fileRef = DDFE2D94188C15F100B50E9A /* hel1_video_appMusic.html */; };
+		DDFE2DD7188C1E5700B50E9A /* help6_playvideoMusic.html in Resources */ = {isa = PBXBuildFile; fileRef = DDFE2DD6188C1E5700B50E9A /* help6_playvideoMusic.html */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -64,6 +65,7 @@
 		DD2F4695187C6813002DB8A3 /* help5_more.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = help5_more.html; sourceTree = "<group>"; };
 		DD2F4699187C697E002DB8A3 /* help3_copy.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = help3_copy.html; sourceTree = "<group>"; };
 		DDFE2D94188C15F100B50E9A /* hel1_video_appMusic.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = hel1_video_appMusic.html; sourceTree = "<group>"; };
+		DDFE2DD6188C1E5700B50E9A /* help6_playvideoMusic.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = help6_playvideoMusic.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -131,6 +133,7 @@
 				DD2F4694187C6813002DB8A3 /* help4_shareAidrop.html */,
 				DD2F4699187C697E002DB8A3 /* help3_copy.html */,
 				DD2F4695187C6813002DB8A3 /* help5_more.html */,
+				DDFE2DD6188C1E5700B50E9A /* help6_playvideoMusic.html */,
 				DD15C2C91881B72B00F46AC4 /* huongdan.jpg */,
 				DD15C2CB1881BA8600F46AC4 /* macb.jpg */,
 				DD2F4674187C4654002DB8A3 /* Images.xcassets */,
@@ -243,6 +246,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DDFE2DD7188C1E5700B50E9A /* help6_playvideoMusic.html in Resources */,
 				DDFE2D95188C15F100B50E9A /* hel1_video_appMusic.html in Resources */,
 				DD2F4697187C6813002DB8A3 /* help4_shareAidrop.html in Resources */,
 				DD2F466D187C4654002DB8A3 /* InfoPlist.strings in Resources */,
