@@ -7,6 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DD09064C18978C0D003F25CD /* nhac1_video.html in Resources */ = {isa = PBXBuildFile; fileRef = DD09064618978C0D003F25CD /* nhac1_video.html */; };
+		DD09064D18978C0D003F25CD /* nhac2_music.html in Resources */ = {isa = PBXBuildFile; fileRef = DD09064718978C0D003F25CD /* nhac2_music.html */; };
+		DD09064E18978C0D003F25CD /* nhac3_copy.html in Resources */ = {isa = PBXBuildFile; fileRef = DD09064818978C0D003F25CD /* nhac3_copy.html */; };
+		DD09064F18978C0D003F25CD /* nhac4_shareAidrop.html in Resources */ = {isa = PBXBuildFile; fileRef = DD09064918978C0D003F25CD /* nhac4_shareAidrop.html */; };
+		DD09065018978C0D003F25CD /* nhac5_more.html in Resources */ = {isa = PBXBuildFile; fileRef = DD09064A18978C0D003F25CD /* nhac5_more.html */; };
+		DD09065118978C0D003F25CD /* nhac6_playvideoMusic.html in Resources */ = {isa = PBXBuildFile; fileRef = DD09064B18978C0D003F25CD /* nhac6_playvideoMusic.html */; };
 		DD15C2CA1881B72B00F46AC4 /* huongdan.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DD15C2C91881B72B00F46AC4 /* huongdan.jpg */; };
 		DD15C2CC1881BA8600F46AC4 /* macb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DD15C2CB1881BA8600F46AC4 /* macb.jpg */; };
 		DD2F4663187C4654002DB8A3 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DD2F4662187C4654002DB8A3 /* Foundation.framework */; };
@@ -41,6 +47,12 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		DD09064618978C0D003F25CD /* nhac1_video.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = nhac1_video.html; sourceTree = "<group>"; };
+		DD09064718978C0D003F25CD /* nhac2_music.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = nhac2_music.html; sourceTree = "<group>"; };
+		DD09064818978C0D003F25CD /* nhac3_copy.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = nhac3_copy.html; sourceTree = "<group>"; };
+		DD09064918978C0D003F25CD /* nhac4_shareAidrop.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = nhac4_shareAidrop.html; sourceTree = "<group>"; };
+		DD09064A18978C0D003F25CD /* nhac5_more.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = nhac5_more.html; sourceTree = "<group>"; };
+		DD09064B18978C0D003F25CD /* nhac6_playvideoMusic.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = nhac6_playvideoMusic.html; sourceTree = "<group>"; };
 		DD15C2C91881B72B00F46AC4 /* huongdan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = huongdan.jpg; sourceTree = "<group>"; };
 		DD15C2CB1881BA8600F46AC4 /* macb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = macb.jpg; sourceTree = "<group>"; };
 		DD2F465F187C4654002DB8A3 /* Help.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Help.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -92,6 +104,19 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		DD09065218978C11003F25CD /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+				DD09064618978C0D003F25CD /* nhac1_video.html */,
+				DD09064718978C0D003F25CD /* nhac2_music.html */,
+				DD09064818978C0D003F25CD /* nhac3_copy.html */,
+				DD09064918978C0D003F25CD /* nhac4_shareAidrop.html */,
+				DD09064A18978C0D003F25CD /* nhac5_more.html */,
+				DD09064B18978C0D003F25CD /* nhac6_playvideoMusic.html */,
+			);
+			name = "New Group";
+			sourceTree = "<group>";
+		};
 		DD2F4656187C4654002DB8A3 = {
 			isa = PBXGroup;
 			children = (
@@ -134,6 +159,7 @@
 				DD2F4699187C697E002DB8A3 /* help3_copy.html */,
 				DD2F4695187C6813002DB8A3 /* help5_more.html */,
 				DDFE2DD6188C1E5700B50E9A /* help6_playvideoMusic.html */,
+				DD09065218978C11003F25CD /* New Group */,
 				DD15C2C91881B72B00F46AC4 /* huongdan.jpg */,
 				DD15C2CB1881BA8600F46AC4 /* macb.jpg */,
 				DD2F4674187C4654002DB8A3 /* Images.xcassets */,
@@ -247,13 +273,19 @@
 			buildActionMask = 2147483647;
 			files = (
 				DDFE2DD7188C1E5700B50E9A /* help6_playvideoMusic.html in Resources */,
+				DD09064E18978C0D003F25CD /* nhac3_copy.html in Resources */,
 				DDFE2D95188C15F100B50E9A /* hel1_video_appMusic.html in Resources */,
+				DD09065018978C0D003F25CD /* nhac5_more.html in Resources */,
 				DD2F4697187C6813002DB8A3 /* help4_shareAidrop.html in Resources */,
+				DD09065118978C0D003F25CD /* nhac6_playvideoMusic.html in Resources */,
 				DD2F466D187C4654002DB8A3 /* InfoPlist.strings in Resources */,
+				DD09064C18978C0D003F25CD /* nhac1_video.html in Resources */,
 				DD2F4698187C6813002DB8A3 /* help5_more.html in Resources */,
 				DD2F4692187C4679002DB8A3 /* hel1_video.html in Resources */,
+				DD09064F18978C0D003F25CD /* nhac4_shareAidrop.html in Resources */,
 				DD15C2CC1881BA8600F46AC4 /* macb.jpg in Resources */,
 				DD2F469A187C697E002DB8A3 /* help3_copy.html in Resources */,
+				DD09064D18978C0D003F25CD /* nhac2_music.html in Resources */,
 				DD2F4696187C6813002DB8A3 /* help2_music.html in Resources */,
 				DD2F4675187C4654002DB8A3 /* Images.xcassets in Resources */,
 				DD15C2CA1881B72B00F46AC4 /* huongdan.jpg in Resources */,
